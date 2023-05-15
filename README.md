@@ -8,10 +8,10 @@ Welcome to the Machine Learning and Deep Learning Projects Repository! This repo
 
 ## Table of Contents
 
-- [Project 1: Sonar Rock vs Mine Prediction](./project1)
-- [Project 2: Name](./project2)
-- [Project 3: Name](./project3)
-- ...
+- [Project 1: Sonar Rock vs Mine Prediction using Logistic Regression](./project1)
+- [Project 2: Diabetes Prediction using SVM](./project2)
+- [Project 3: Loading..](./project3)
+- [Loading...]
 
 ## Project Structure
 
