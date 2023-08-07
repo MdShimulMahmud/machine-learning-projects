@@ -1,0 +1,15 @@
+Day,Temperature,Outlook,Humidity,Windy,Rainfall,Play Game?
+5-Jul,hot,sunny,high,FALSE,120,no
+6-Jul,hot,sunny,high,TRUE,200,no
+7-Jul,hot,overcast,high,FALSE,180,yes
+9-Jul,cool,rain,normal,FALSE,150,yes
+10-Jul,cool,overcast,normal,TRUE,140,yes
+12-Jul,mild,sunny,high,FALSE,110,no
+14-Jul,cool,sunny,normal,FALSE,100,yes
+15-Jul,mild,rain,normal,FALSE,170,yes
+20-Jul,mild,sunny,normal,TRUE,140,yes
+21-Jul,mild,overcast,high,TRUE,130,yes
+22-Jul,hot,overcast,normal,FALSE,120,yes
+23-Jul,mild,rain,high,TRUE,160,no
+26-Jul,cool,rain,normal,TRUE,180,no
+30-Jul,mild,rain,high,FALSE,200,yes

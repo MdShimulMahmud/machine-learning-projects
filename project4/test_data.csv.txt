@@ -1,0 +1,2 @@
+Day,Temperature,Outlook,Humidity,Windy,Rainfall
+5-Jul,hot,sunny,high,FALSE,120,no
