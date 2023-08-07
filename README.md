@@ -11,7 +11,10 @@ Welcome to the Machine Learning and Deep Learning Projects Repository! This repo
 - [Project 1: Sonar Rock vs Mine Prediction using Logistic Regression](./project1)
 - [Project 2: Diabetes Prediction using SVM](./project2)
 - [Project 3: Multivariate Linear Regression](./project3)
-- [Loading...]
+- [Project 4: Decision Tree](./project4)
+- [Project 5: K-means Clustering](./project5)
+- [Project 6: Apriori Algorithm](./project6)
+- [Project 7: Backpropagation from scratch using synthetic data](./project7)
 
 ## Project Structure
 
